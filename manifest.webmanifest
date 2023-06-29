@@ -1,0 +1,18 @@
+{
+    "short_name": "Minhas Dívidas",
+    "name": "Minhas Dívidas",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "Minhas Dívidas",
+    "icons": [
+      {
+        "src": "assets/img/logo.png",
+        "type": "image/png",
+        "sizes": "500x500"
+      }
+    ]
+}
