@@ -2,7 +2,9 @@
 
 <img align="center" with="100%" src="assets/img/3.png" />
 
-Projeto simples de um aplicativo PWA de um gerenciador de dívidas. utilizando banco de dados MySQL, PHP, JavaScript, CSS e framework Bootstrap.
+Projeto simples de um aplicativo PWA de um gerenciador de dívidas. 
+
+Utilizando banco de dados MySQL, PHP, JavaScript, CSS e framework Bootstrap.
 
 ## Tecnologias utilizadas
 
@@ -32,8 +34,8 @@ Projeto simples de um aplicativo PWA de um gerenciador de dívidas. utilizando b
 
 ## Requisitos
 
-Xampp porta:81.
+Xampp
 
-Navegador.
+Navegador
 
-Visual Studio Code.
+Visual Studio Code

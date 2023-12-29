@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Minhas Dívidas</title>
         <link rel="manifest" href="manifest.webmanifest">
-        <link href="assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+        <link href="assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
         <link rel="icon" href="assets/img/logo.png">
         <link rel="stylesheet" href="assets/css/estilo.css">
     </head>

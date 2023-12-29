@@ -96,13 +96,14 @@
             </div>
         </div>
 
-
         <div class="card-group" style="margin-top: 20px;">
             <div class="card">
                 <div class="card-body">
                 <h5 class="card-title">Dívidas Pagas</h5>
                     <form class="d-flex" action="busca.php" method="POST" role="search">
-                        <input class="form-control me-2" type="search" name="pesquisa" placeholder="Digite o Ano ex: 2022" aria-label="Search" required>
+                        
+                        <input class="form-control me-2" type="number" name="pesquisa" placeholder="Digite o ano da dívida paga" aria-label="Search" required>
+                       
                         <button class="btn btn-primary" type="submit">Buscar</button>
                     </form>                      
                 </div>

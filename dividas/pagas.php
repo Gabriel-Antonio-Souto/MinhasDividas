@@ -575,9 +575,7 @@
 </section>
 
 <section class="divida">
-    <div class="card">
-        <div class="card-body">    
-            <h3 class="titulo">Total do ano de <?php echo $pesquisa;?>: <?php $divida = new Divida();$total_ano = $divida->total_ano($pesquisa);foreach ($total_ano as $valor){echo "R$ ". number_format($valor['valor'],2,",",".");}?></h3>        
-        </div>
+    <div class="alert alert-success" role="alert">
+        <h3 class="titulo">Total do ano de <?php echo $pesquisa;?>: <?php $divida = new Divida();$total_ano = $divida->total_ano($pesquisa);foreach ($total_ano as $valor){echo "R$ ". number_format($valor['valor'],2,",",".");}?></h3>        
     </div>
 </section>
